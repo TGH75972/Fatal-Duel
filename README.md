@@ -5,7 +5,7 @@ Player 1 -
 
 Player 1 will be you, the main character who is going to battle the evil wizard, his move sets include-
 
-**R-Light Attack**
+**R-Light Attack**</br>
 **T-Heavy Attack**
 
 The player can jump by pressing W and move by using A and D
