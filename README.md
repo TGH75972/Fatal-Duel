@@ -1,6 +1,9 @@
 # Fatal-Duel
 It is a dueling game that indicates how you are being your own enemy in this game by battling the wizard of darkness who once took your form...
 
+![image](https://github.com/user-attachments/assets/e1ce51bd-c6fe-41ae-88cf-17ae52e78542)
+
+
 Player 1 -
 
 Player 1 will be you, the main character who is going to battle the evil wizard, his move sets include-
