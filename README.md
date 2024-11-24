@@ -11,7 +11,9 @@ Player 1 will be you, the main character who is going to battle the evil wizard,
 **R-Light Attack**</br>
 **T-Heavy Attack**
 
-The player can jump by pressing W and move by using A and D
+The player can jump by pressing W and move by using A and D</br>
+
+Player 2-
 
 The Wizard will be the second player in the game and he uses his magical powers by using the keys -
 
